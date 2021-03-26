@@ -52,6 +52,7 @@ Students can start exploring the neXtProt tools by referring to www.nextprot.org
 
 * Overview of the [neXtProt Concept](https://www.nextprot.org/about/nextprot)
 * [Technical Corner](https://www.nextprot.org/help/technical-corner)
+* [neXtProt github] (https://github.com/calipho-sib)
 * neXtProt features visualization [Feature viewer](https://github.com/calipho-sib/feature-viewer)
 
 ### Contact
