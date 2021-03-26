@@ -36,6 +36,14 @@ The proposed user interface visualizes the predicted variant effect output for a
 Objective of the project is to develop a user interface to visualize the variant prediction data from the VEP tool in the neXtProt context. neXtprot has its own UI components to visualize neXtProt annotations (features on proteins) on the protein's amino acid sequence. [Feature viewer](https://github.com/calipho-sib/feature-viewer) is such a visualization UI component developed and integrated in [neXtProt UI](https://www.nextprot.org/entry/NX_P52701/sequence).
 In this project, feature viewer and other relevant neXtProt UI components (will be elaborated in the student proposal) will be used to visualize the variant prediction output from VEP. Therefore neXtProt users will be able to 
 
+##### Development steps
+
+* Familiarize with neXtProt API, UI and snorql, explore the type of data neXtProt exposes.
+* Study the feature viewer. [Source](https://github.com/calipho-sib/feature-viewer), [Publication](https://www.nextprot.org/news/new-publication-the-feature-viewer-a-visualization-tool-for-positional-annotations-on-a-sequence) 
+* Understand the required API endpoints to be used in the UI.
+* Design (An initial mockup will be given from neXtProt) the UI with the different UI components.
+* Implemention and Testing
+
 #### Preparation
 
 Students can start exploring the neXtProt tools by referring to www.nextprot.org and the resources mentioned below. A warm-up exercise would be to write a simple javascript (any related platform) program to call the nextprot API and list/visualize the data returned. 
