@@ -8,7 +8,7 @@
 
 ### neXtProt system overview
 neXtProt is a public portal accessible at www.nextprot.org. neXtProt exposes different ways for the users to view and use data. 
-High level overview of neXtProt components can be found ![here](./images/np.png).
+High level overview of neXtProt components can be found here. ![here](./images/np.png).
 
 * Web User Interface (nextprot.org)
 Web User Interface is developed in Angular and Polymer as the main technologies. It also integrates several other web components to add more features.
@@ -41,7 +41,7 @@ In this project, feature viewer and other relevant neXtProt UI components (will 
 * Familiarize with neXtProt API, UI and snorql, explore the type of data neXtProt exposes.
 * Study the feature viewer. [Source](https://github.com/calipho-sib/feature-viewer), [Publication](https://www.nextprot.org/news/new-publication-the-feature-viewer-a-visualization-tool-for-positional-annotations-on-a-sequence) 
 * Understand the required API endpoints to be used in the UI.
-* Design (An initial mockup will be given from neXtProt) the UI with the different UI components.
+* Design (An initial [mockup]() will be given from neXtProt) the UI with the different UI components.
 * Implemention and Testing
 
 #### Preparation
