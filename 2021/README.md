@@ -57,3 +57,6 @@ Students can start exploring the neXtProt tools by referring to www.nextprot.org
 
 ### Contact
 kasun Samarasinghe [kasun.wijesiriwardana@unige.ch](mailto:kasun.wijesiriwardana@unige.ch)
+
+### Results
+This project was sucessfully completed by [Shrey Sachdeva](https://medium.com/@shreysachdeva.2000) and an insightful resume of the work can be found [here](https://medium.com/@shreysachdeva.2000/obf-development-of-a-user-interface-for-the-vep-nextprot-plugin-cebafa386d64).
