@@ -78,6 +78,7 @@ Students can start exploring the neXtProt tools by referring to www.nextprot.org
 ### Contributor
 
 Chalith Tharuka Gunasekara (Tampere University)
+
 [Github] : (https://github.com/chaliya96)
 
 ### Contact
