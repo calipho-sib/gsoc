@@ -75,5 +75,10 @@ Students can start exploring the neXtProt tools by referring to www.nextprot.org
 * [neXtProt github](https://github.com/calipho-sib)
 * neXtProt features visualization [Feature viewer](https://github.com/calipho-sib/feature-viewer)
 
+### Contributor
+
+Chalith Tharuka Gunasekara (Tampere University)
+[Github] : (https://github.com/chaliya96)
+
 ### Contact
 kasun Samarasinghe [kasun.wijesiriwardana@unige.ch](mailto:kasun.wijesiriwardana@unige.ch)
